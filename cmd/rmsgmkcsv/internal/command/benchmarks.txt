@@ -1,0 +1,1 @@
+?   	github.com/larsth/rmsgmkcsv/cmd/rmsgmkcsv/internal/command	[no test files]
